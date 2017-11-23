@@ -5,6 +5,3 @@ my_array1 = np.array(my_list1)
 
 my_list1 = [11,22,33,44]
 
-
-
-
